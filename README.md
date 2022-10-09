@@ -7,6 +7,9 @@ that converts the files from JSON to a binary layout format that simplifies proc
 in languages such as C. The script to perform the conversion and converted binaries of 
 some of the tests are included with this repository.
 
+For example, the binaries for the 6502 directory amounts to 175 MB while the JSON files
+sum up to around 1 GB.
+
 ## Binary format
 
 The following format is repeated for all 10000 tests.
